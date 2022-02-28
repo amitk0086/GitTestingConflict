@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc33f357-2cf7-4d22-96f1-658dd9a3ad8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="8a51835c-5115-4225-9420-c99a8249673e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitTestingConflict.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="121a1764bb3b5030fdc22a04a25ca0a724a9c637" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
@@ -40,7 +44,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="25jl2YLIXsBl8AlN4gbZAf869TF" />
+  <component name="ProjectId" id="25jnJNO4kjiQa266HAe7P71Fstz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,11 +56,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc33f357-2cf7-4d22-96f1-658dd9a3ad8d" name="Default Changelist" comment="" />
-      <created>1646048171214</created>
+      <changelist id="8a51835c-5115-4225-9420-c99a8249673e" name="Default Changelist" comment="" />
+      <created>1646049292713</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646048171214</updated>
+      <updated>1646049292713</updated>
     </task>
     <servers />
   </component>
