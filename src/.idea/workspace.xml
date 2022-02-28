@@ -19,16 +19,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8a51835c-5115-4225-9420-c99a8249673e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitTestingConflict.iml" beforeDir="false" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="3364a8a7-218d-4317-baab-fc45e52cd129" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Testing/UserTwoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+=======
+    <list default="true" id="fc33f357-2cf7-4d22-96f1-658dd9a3ad8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Testing.java" afterDir="false" />
+>>>>>>> 21713728b4752a367f45a6000ccbb107519a285e
+>>>>>>> cf9fac78d89d2b8c3691ecffb365a14879c6c4b0
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+=======
+>>>>>>> 21713728b4752a367f45a6000ccbb107519a285e
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -44,7 +71,15 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="25jnJNO4kjiQa266HAe7P71Fstz" />
+=======
+<<<<<<< HEAD
+  <component name="ProjectId" id="25jmh3yk9SRkYGL8WOg5TtuSeJj" />
+=======
+  <component name="ProjectId" id="25jl2YLIXsBl8AlN4gbZAf869TF" />
+>>>>>>> 21713728b4752a367f45a6000ccbb107519a285e
+>>>>>>> cf9fac78d89d2b8c3691ecffb365a14879c6c4b0
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,11 +91,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="8a51835c-5115-4225-9420-c99a8249673e" name="Default Changelist" comment="" />
       <created>1646049292713</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646049292713</updated>
+=======
+<<<<<<< HEAD
+      <changelist id="3364a8a7-218d-4317-baab-fc45e52cd129" name="Default Changelist" comment="" />
+      <created>1646048987594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646048987594</updated>
+=======
+      <changelist id="fc33f357-2cf7-4d22-96f1-658dd9a3ad8d" name="Default Changelist" comment="" />
+      <created>1646048171214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646048171214</updated>
+>>>>>>> 21713728b4752a367f45a6000ccbb107519a285e
+>>>>>>> cf9fac78d89d2b8c3691ecffb365a14879c6c4b0
     </task>
     <servers />
   </component>
